@@ -14,9 +14,9 @@ sem o protocolo https://
 
 Exemplo:
 
-www.rbo.org.br
-www.jbp.org.br
-www.bjp.org.br
+www.youtube.com.br<br/>
+www.teste.com.br<br/>
+www.site2.com.br<br/>
 ...Assim por diante
 
 Após isso basta salvar o arquivo e clicar no executavel que está na pasta e aguardar.
